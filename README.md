@@ -32,11 +32,17 @@ The body was printed in PLA Pure filament in the color milky pink by Bambu Lab. 
 
 ### new drawing in SOLIDWORKS:<br/>
 <img width="2782" height="1465" alt="look" src="https://github.com/user-attachments/assets/9f27eaca-43ad-4fd4-b0e6-be8c84cbc634" /><br/>
-###New Studio Print:<br/>
+### New Studio Print:<br/>
 <img width="4032" height="3024" alt="print 4" src="https://github.com/user-attachments/assets/356d1d14-fa98-4b44-b65a-ec9649218e6d" /><br/>
 # Original 1, Prototype 1, Revision 2:<br/>
 <img width="4032" height="3024" alt="file forms" src="https://github.com/user-attachments/assets/1241ca9d-c7ab-4c69-b95a-e21aa52eebc4" /><br/>
 This print orientation did not go as expected. There were a few impurities on the opening for the connector. So dimension wise, the board fits, but not in this shell. I will sand it down when the time comes.<br/>
+<br/>
+<br/>
+This is the side comparison. I liked the first print (left) compared to the second print (right). It is more flush and that is what I am looking for.<br/>
+<img width="3722" height="2627" alt="Side view" src="https://github.com/user-attachments/assets/34c30668-80ca-4088-a29e-b1d2bcce86be" /><br/>
+
+
 
 
 
