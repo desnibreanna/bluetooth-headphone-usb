@@ -42,6 +42,8 @@ This print orientation did not go as expected. There were a few impurities on th
 This is the side comparison. I liked the first print (left) compared to the second print (right). It is more flush and that is what I am looking for.<br/>
 <img width="3722" height="2627" alt="Side view" src="https://github.com/user-attachments/assets/34c30668-80ca-4088-a29e-b1d2bcce86be" /><br/>
 
+With the stars:<br/>
+<img width="3024" height="2753" alt="stars 1" src="https://github.com/user-attachments/assets/6e9b20de-bc4b-4f08-81dc-bee3af14d2e5" />
 
 
 
