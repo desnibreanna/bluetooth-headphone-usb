@@ -59,7 +59,7 @@ The assembly:<br/>
 
 
 ## Sources:<br/>
-<a href="[(https://fccid.io/JNZA00179)]" target="_blank">The FCCID Logitech Sources</a><br/>
+[FCC ID filing for JNZA00179](https://fccid.io/JNZA00179)
 
 
 
