@@ -59,7 +59,7 @@ The assembly:<br/>
 
 
 ## Sources:<br/>
-<a href="[https://www.example.com](https://fccid.io/JNZA00179)" target="_blank">The FCCID Logitech Sources</a><br/>
+<a href="[(https://fccid.io/JNZA00179)]" target="_blank">The FCCID Logitech Sources</a><br/>
 
 
 
