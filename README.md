@@ -58,6 +58,10 @@ The assembly:<br/>
 <img width="2782" height="1510" alt="the assem" src="https://github.com/user-attachments/assets/83e495ba-a23d-46a7-8fb6-fbd4f86578a9" /><br/>
 
 
+## Sources:<br/>
+<a href="[https://www.example.com](https://fccid.io/JNZA00179)" target="_blank">The FCCID Logitech Sources</a><br/>
+
+
 
 
 
