@@ -9,7 +9,13 @@ This is my documented process of fixing my logitech g733 headphone bluetooth don
 <img width="3024" height="4032" alt="problem 1" src="https://github.com/user-attachments/assets/bc36d6d1-6f03-4b77-8001-ce3e57e4cdcb" /> <img width="3024" height="4032" alt="problem 5" src="https://github.com/user-attachments/assets/bf3af461-e6a7-4ccd-a276-084aaeb67549" /><img width="3024" height="4032" alt="problem 3" src="https://github.com/user-attachments/assets/151664d5-f50b-4ab3-a3da-e35486f32c89" /><img width="3024" height="4032" alt="problem 2" src="https://github.com/user-attachments/assets/90210594-8d41-4416-ab37-90cbb3ac6c1c" /> <br/>
 
 # Soldering and fixing the PCB <br/>
-[Next Update:Repair and solder a new USB connector}
+Soldering the new connector was quite a challenge but I am glad I got it to work in the end. One of the bridge pads broke during disassembly. However, without having the schematic (because Logitech has not publicly published it), I was able to figure out what pad to bridge it to and make a working connection. It was rewarding to go through this challenge and get it to work in the end. <br/>
+<img width="4032" height="3024" alt="IMG_4978" src="https://github.com/user-attachments/assets/b8f069df-f702-433d-962b-94020e9632a2" /><br/>
+<img width="4032" height="3024" alt="IMG_4980" src="https://github.com/user-attachments/assets/da6d6c8a-48c0-48ba-bb49-87027a8a14b9" /> <br/>
+<img width="3024" height="4032" alt="IMG_4981" src="https://github.com/user-attachments/assets/d2385103-e533-4b27-8301-a22d784aa00a" /> <br/>
+The broken pad: <br/>
+<img width="3024" height="4032" alt="IMG_4738" src="https://github.com/user-attachments/assets/d9f41b92-a474-4a42-ab46-057378b665bb" /><br/>
+
 
 # Redesigning the shell:<br/>
 The rough sketch ideas:<br/>
@@ -43,7 +49,15 @@ This is the side comparison. I liked the first print (left) compared to the seco
 <img width="3722" height="2627" alt="Side view" src="https://github.com/user-attachments/assets/34c30668-80ca-4088-a29e-b1d2bcce86be" /><br/>
 
 With the stars:<br/>
-<img width="3024" height="2753" alt="stars 1" src="https://github.com/user-attachments/assets/6e9b20de-bc4b-4f08-81dc-bee3af14d2e5" />
+<img width="3024" height="2753" alt="stars 1" src="https://github.com/user-attachments/assets/6e9b20de-bc4b-4f08-81dc-bee3af14d2e5" /><br/>
+The stars assembled: <br/>
+<img width="3024" height="4032" alt="IMG_4734" src="https://github.com/user-attachments/assets/526532b1-97d9-419c-b879-93bb6b6c39b6" /><br/>
+
+### Printing and testing prototype #2:<br/>
+The assembly:<br/>
+<img width="2782" height="1510" alt="the assem" src="https://github.com/user-attachments/assets/83e495ba-a23d-46a7-8fb6-fbd4f86578a9" /><br/>
+
+
 
 
 
