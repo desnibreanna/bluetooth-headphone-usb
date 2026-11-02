@@ -6,7 +6,7 @@ This is my documented process of fixing my logitech g733 headphone lightspeed 2.
  ☆ Solder Iron: FNIRSI HS-02  Soldering Iron<br/>
 
 ## The initial issue:<br/>
-This lightspeed dongle's USB port broke and bent. I assume it was during a move to different houses. The dongle no longer worked unless it was in this specific angle and it was unpractical. So, I have decided to fix it and redesign the shell so I won't have to but a new headset. <br/>
+This lightspeed dongle's USB port broke and bent. I assume it was during a move to different houses. The dongle no longer worked unless it was in this specific angle and it was impractical. So, I have decided to fix it and redesign the shell so I won't have to buy a new headset. <br/>
 <img width="3024" height="4032" alt="problem 1" src="https://github.com/user-attachments/assets/bc36d6d1-6f03-4b77-8001-ce3e57e4cdcb" /> <img width="3024" height="4032" alt="problem 5" src="https://github.com/user-attachments/assets/bf3af461-e6a7-4ccd-a276-084aaeb67549" /><img width="3024" height="4032" alt="problem 3" src="https://github.com/user-attachments/assets/151664d5-f50b-4ab3-a3da-e35486f32c89" /><img width="3024" height="4032" alt="problem 2" src="https://github.com/user-attachments/assets/90210594-8d41-4416-ab37-90cbb3ac6c1c" /> <br/>
 
 # The finished product:<br/>
@@ -19,11 +19,12 @@ Soldering the new connector was quite a challenge but I am glad I got it to work
 <img width="4032" height="3024" alt="IMG_4980" src="https://github.com/user-attachments/assets/da6d6c8a-48c0-48ba-bb49-87027a8a14b9" /> <br/>
 <img width="3024" height="4032" alt="IMG_4981" src="https://github.com/user-attachments/assets/d2385103-e533-4b27-8301-a22d784aa00a" /> <br/>
 ## The broken pad: <br/>
-One of the bridge pads lifted during disassembly and took its trace with it. Logitech doesn’t publish a schematic, so I used a multimeter in continuity mode to trace where the pad had connected. I bridged the gap with the port leg and shaped before soldering so it wouldn’t pull on the joint. Before powering it , I checked for shorts between the new connection.<br/>
+One of the bridge pads lifted during disassembly and took its trace with it. Logitech doesn’t publish a schematic, so I used a multimeter in continuity mode to trace where the pad had connected. It ran to the end terminal of the nearby black SMD component. I bridged the gap with the USB port leg that I have shaped before soldering, so it wouldn’t pull on the joint. Before powering it , I checked for shorts between the new connection.<br/>
+<img width="3024" height="4032" alt="IMG_4738" src="https://github.com/user-attachments/assets/d9f41b92-a474-4a42-ab46-057378b665bb" /><br/>
 <br/>
 
 I also lost a small capacitor during the repair and couldn’t determine its value without a schematic. Since the dongle worked without it, I left it off. It is most likely a decoupling cap. If I see audio dropouts or range problems, the first thing I’d add is a 1–10µF ceramic cap. <br/>
-<img width="3024" height="4032" alt="IMG_4738" src="https://github.com/user-attachments/assets/d9f41b92-a474-4a42-ab46-057378b665bb" /><br/>
+
 
 
 # Redesigning the shell:<br/>
@@ -38,11 +39,11 @@ The rough sketch ideas:<br/>
 <img width="3024" height="4032" alt="print 3" src="https://github.com/user-attachments/assets/92445c77-c9fb-4c29-a708-3e6aaaba5717" /><br/>
 <img width="3024" height="4032" alt="print 2" src="https://github.com/user-attachments/assets/bd524bbd-ddb8-4f4a-9ab2-4c0a9951f3a7" /><br/>
 <img width="3024" height="4032" alt="Prototype 1" src="https://github.com/user-attachments/assets/bc0769a1-890b-40f4-91f0-f516cb164776" /><br/>
-I have ran into a problem and have excluded the light hole and the offest for the board to sit in. But the hole for the USB A connector to stick out is a perfect fit. I have redesigned and added both missing features. (refer to SOLIDWORKS drawing above)<br/>
+I have ran into a problem and have excluded the light hole and the offset for the board to sit in. But the hole for the USB A connector to stick out is a perfect fit. I have redesigned and added both missing features. (refer to SOLIDWORKS drawing above)<br/>
 <img width="4284" height="5712" alt="prototype process 2" src="https://github.com/user-attachments/assets/b4da2c55-3efc-461a-b71d-db7e410e3d6a" /><br/>
 
 ### Process:<br/>
-The body was printed in PLA Pure filament in the color milky pink by Bambu Lab. The stars were printed in PLA Matte filament in the color sakura pink by Bambu Lab. I have also changed the orientation of the print in the 3d printer to illuminate the print bed texture. Giving the print that smooth texture from the PLA Pure filament. <br/>
+The body was printed in PLA Pure filament in the color milky pink by Bambu Lab. The stars were printed in PLA Matte filament in the color sakura pink by Bambu Lab. I have also changed the orientation of the print in the 3D printer to eliminate the print bed texture. Giving the print that smooth texture from the PLA Pure filament. <br/>
 
 
 ### new drawing in SOLIDWORKS:<br/>
