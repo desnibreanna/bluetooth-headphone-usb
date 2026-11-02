@@ -14,6 +14,7 @@ This lightspeed dongle's USB port broke and bent. I assume it was during a move 
 
 # Soldering and fixing the PCB <br/>
 Soldering the new connector was quite a challenge but I am glad I got it to work in the end. One of the bridge pads broke during disassembly. However, without having the schematic (because Logitech has not publicly published it), I was able to figure out what pad to bridge it to and make a working connection. It was rewarding to go through this challenge and get it to work in the end. <br/>
+Finished solder job:<br/>
 <img width="4032" height="3024" alt="IMG_4978" src="https://github.com/user-attachments/assets/b8f069df-f702-433d-962b-94020e9632a2" /><br/>
 <img width="4032" height="3024" alt="IMG_4980" src="https://github.com/user-attachments/assets/da6d6c8a-48c0-48ba-bb49-87027a8a14b9" /> <br/>
 <img width="3024" height="4032" alt="IMG_4981" src="https://github.com/user-attachments/assets/d2385103-e533-4b27-8301-a22d784aa00a" /> <br/>
