@@ -1,4 +1,4 @@
-# bluetooth-headphone-usb
+# headphone-usb
 This is my documented process of fixing my logitech g733 headphone lightspeed 2.4GHz dongle <br/>
  ☆ 3D Printer: Bambu Lab P2S<br/>
  ☆ CAD Program: Solidworks<br/>
