@@ -19,6 +19,10 @@ Finished solder job:<br/>
 <img width="4032" height="3024" alt="IMG_4980" src="https://github.com/user-attachments/assets/da6d6c8a-48c0-48ba-bb49-87027a8a14b9" /> <br/>
 <img width="3024" height="4032" alt="IMG_4981" src="https://github.com/user-attachments/assets/d2385103-e533-4b27-8301-a22d784aa00a" /> <br/>
 The broken pad: <br/>
+One of the bridge pads lifted during disassembly and took its trace with it. Logitech doesn’t publish a schematic, so I used a multimeter in continuity mode to trace where the pad had connected. I bridged the gap with the port leg and shaped before soldering so it wouldn’t pull on the joint. Before powering it , I checked for shorts between the new connection.<br/>
+<br/>
+
+I also lost a small capacitor during the repair and couldn’t determine its value without a schematic. Since the dongle worked without it, I left it off. It is most likely a decoupling cap. If I see audio dropouts or range problems, the first thing I’d add is a 1–10µF ceramic cap. <br/>
 <img width="3024" height="4032" alt="IMG_4738" src="https://github.com/user-attachments/assets/d9f41b92-a474-4a42-ab46-057378b665bb" /><br/>
 
 
