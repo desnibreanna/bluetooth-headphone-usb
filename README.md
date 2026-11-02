@@ -1,12 +1,12 @@
 # bluetooth-headphone-usb
-This is my documented process of fixing my logitech g733 headphone bluetooth dongle<br/>
+This is my documented process of fixing my logitech g733 headphone lightspeed 2.4GHz dongle <br/>
  ☆ 3D Printer: Bambu Lab P2S<br/>
  ☆ CAD Program: Solidworks<br/>
  ☆ Sketch Program: Procreate<br/>
  ☆ Solder Iron: FNIRSI HS-02  Soldering Iron<br/>
 
 ## The initial issue:<br/>
-This dongle's USB port broke and bent. I assume it was during a move to different houses. The dongle no longer worked unless it was in this specific angle and it was unpractical. So, I have decided to fix it and redesign the shell so I won't have to but a new headset. <br/>
+This lightspeed dongle's USB port broke and bent. I assume it was during a move to different houses. The dongle no longer worked unless it was in this specific angle and it was unpractical. So, I have decided to fix it and redesign the shell so I won't have to but a new headset. <br/>
 <img width="3024" height="4032" alt="problem 1" src="https://github.com/user-attachments/assets/bc36d6d1-6f03-4b77-8001-ce3e57e4cdcb" /> <img width="3024" height="4032" alt="problem 5" src="https://github.com/user-attachments/assets/bf3af461-e6a7-4ccd-a276-084aaeb67549" /><img width="3024" height="4032" alt="problem 3" src="https://github.com/user-attachments/assets/151664d5-f50b-4ab3-a3da-e35486f32c89" /><img width="3024" height="4032" alt="problem 2" src="https://github.com/user-attachments/assets/90210594-8d41-4416-ab37-90cbb3ac6c1c" /> <br/>
 
 # The finished product:<br/>
